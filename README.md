@@ -1,2 +1,2 @@
 # crepo
-A voice bank.
+A voicebank.
