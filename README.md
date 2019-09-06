@@ -43,7 +43,7 @@ A voice bank for UTAU
 
 ### A3
 
-A3連続音
+A3_0.0.2_Neutron.wav（flacで配布）から切り出した A3連続音
 
 ### original
 
@@ -61,4 +61,4 @@ A3連続音
 
 -   A3_0.0.1_EQ.flac    （EQ処理後・収録音階 A3・2019年8月29日作成）
 
--   A3_0.0.2_Neutron.wav   （A3_0.0.0.flac をEQとComp処理・収録音階A3・2019年9月1日作成）
+-   A3_0.0.2_Neutron.flac   （A3_0.0.0.flac をEQとComp処理・収録音階A3・2019年9月1日作成）
