@@ -12,7 +12,7 @@ A voice bank for UTAU
 -   音声ファイルはじめ含まれる全ファイルについて、転載を禁止致します。  
 -   ただし、CrazYが失踪あるいは死亡等によって本家配布が消滅した場合のみ、未改変音源に限り転載を許可します。
 -   GitHub の branch で遊んでくれると喜びます。その際、音源の改変は許可します。
--   R18-G でのご利用はお控えください。HANASUゲーム実況ならおｋ。
+-   R18-G でのご利用はお控えください。でも多量出血や切断、拷問などがなければおk。HANASUゲーム実況ならおｋ。
 -   ご質問があれば Twitter : @crazy_toho まで。
 
 * * *
@@ -24,8 +24,18 @@ A voice bank for UTAU
 
 ## おすすめ設定
 
--   エンジン：wavtool4vcv + resampler
+### 低音（E3, A3）
+-   エンジン：wavtool4vcv + resampler or fresamp12_5
 -   フラグ　：g-1
+
+### 高音（D4, A4）
+-   エンジン：wavtool4vcv + fresamp14 or fresamp12_5
+-   フラグ　：g-3 ~ g-5
+
+### 両方使うとき
+-	エンジン：wavtool4vcv + fresamp12_5
+-	フラグ　：わからん
+-	※ E3, A3 から D4 へのつなぎが苦手です。
 
 ## 音源トロ紹介
 以下いずれも2019年8月18日23~24時
