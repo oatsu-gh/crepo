@@ -92,4 +92,4 @@ crepo
 
 -   A3_0.0.1_EQ.flac    （EQ処理後・収録音階 A3・2019年8月29日作成）
 
--   ○○_0.0.2_Neutron.flac   （○○_0.0.0.flac をEQとComp処理・収録音階A3）
+-   ○○_0.0.2_Neutron.flac   （○○_0.0.0.flac をEQとComp処理）
