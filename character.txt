@@ -1,6 +1,0 @@
-name=‚­‚ê‚Û˜A‘±‰¹
-author=CrazY
-image=crepo.bmp
-sample=
-web=https://github.com/oatsu-gh/crepo
-version:0.0
