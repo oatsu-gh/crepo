@@ -24,6 +24,7 @@ A voice bank for UTAU
 
 -   くろ州式7モーラ連続音リスト
 -   レコーディングスタジオ「ホシミヤハウス」
+-   AT4040, Appolo twin
 
 ## おすすめ設定
 
