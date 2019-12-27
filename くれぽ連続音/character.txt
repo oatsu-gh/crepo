@@ -1,4 +1,4 @@
-name=‚­‚ê‚Û˜A‘±‰¹
+name=‚­‚ê‚Û ˜A‘±‰¹
 author=CrazY
 image=crepo.bmp
 sample=
