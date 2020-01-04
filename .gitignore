@@ -1,5 +1,5 @@
 *.exe
 *.py
 *.lnk
-*.rpp
+//*.rpp
 *.rpp-bak
