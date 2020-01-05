@@ -1,3 +1,6 @@
+*.cache*
+*.dat
+*.whd
 *.exe
 *.py
 *.lnk
