@@ -4,7 +4,7 @@ UST Version1.2
 Tempo=180.00
 Tracks=1
 ProjectName=D4原音設定確認
-VoiceDir=D:\UTAUデータ\音源制作\くれぽ\crepo\くれぽ4音階連続音
+VoiceDir=*くれぽ 連続音
 OutFile=D:\UTAUデータ\音源制作\くれぽ\wf\D4.wav
 CacheDir=D4原音設定用UST.cache
 Tool1=wavtool4vcv.exe
