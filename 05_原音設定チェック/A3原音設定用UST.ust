@@ -16667,6 +16667,17 @@ Lyric=R
 NoteNum=54
 PreUtterance=1920
 VoiceOverlap=1920
+Intensity=100
+Modulation=0
+PBW=0.0
+PBS=0;0.0
+PBY=0.0
+[#1519]
+Length=480
+Lyric=R
+NoteNum=54
+PreUtterance=1920
+VoiceOverlap=1920
 Modulation=0
 PBW=0
 PBS=0
