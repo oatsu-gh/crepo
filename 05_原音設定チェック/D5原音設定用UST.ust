@@ -4,11 +4,11 @@ UST Version1.2
 Tempo=180.00
 Tracks=1
 ProjectName=D5原音設定確認
-VoiceDir=C:\Users\Getup\Documents\GitHub-UTAU\crepo\くれぽ連続音
+VoiceDir=*くれぽ 連続音
 OutFile=D5.wav
 CacheDir=D5原音設定用UST.cache
 Tool1=wavtool4vcv.exe
-Tool2=resampler\fresamp11.exe
+Tool2=doppeltler005\doppeltler64.exe
 Mode2=True
 [#0000]
 Length=480
