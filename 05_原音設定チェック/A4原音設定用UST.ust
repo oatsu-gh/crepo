@@ -4,11 +4,11 @@ UST Version1.2
 Tempo=180.00
 Tracks=1
 ProjectName=A4原音設定確認
-VoiceDir=D:\UTAUデータ\音源制作\くれぽ\crepo
+VoiceDir=*くれぽ 連続音
 OutFile=A4.wav
 CacheDir=A4原音設定用UST.cache
 Tool1=wavtool4vcv.exe
-Tool2=fresamp12_5.exe
+Tool2=doppeltler005\doppeltler64.exe
 Mode2=True
 [#0000]
 Length=480
@@ -40,14 +40,13 @@ Intensity=100
 Modulation=0
 [#0004]
 Length=480
-Lyric=- あA4
+Lyric=- あ
 NoteNum=69
 PreUtterance=
 Intensity=100
 Modulation=0
-PBW=50.0
-PBS=-25;0.0
-Envelope=0,5,35,0,100,100,100,%,83
+PBW=60.0
+PBS=-30;0.0
 PBY=0.0
 [#0005]
 Length=480
