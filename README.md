@@ -27,23 +27,10 @@ A voice bank for UTAU
 -   AT4040, Appolo twin
 -   AT2035, Scarlett Solo （D5のみ）
 
-## おすすめ設定
+## 推奨音域
+-   D3～G5
+-   低音ではg-1、高音ではg-6くらいがおすすめ
 
-#### 低音（E3, A3）
-
--   エンジン：wavtool4vcv + resampler or fresamp12_5
--   フラグ　：g-1
-
-#### 高音（D4, A4）
-
--   エンジン：wavtool4vcv + fresamp14 or fresamp12_5
--   フラグ　：g-3 ~ g-5
-
-#### 両方使うとき
-
--   エンジン：wavtool4vcv + fresamp12_5
--   フラグ　：わからん
--   ※ E3, A3 から D4 へのつなぎが苦手です。
 
 ## 音源トロ紹介
 
