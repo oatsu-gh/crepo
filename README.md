@@ -27,9 +27,10 @@ A voice bank for UTAU
 -   AT4040, Appolo twin
 -   AT2035, Scarlett Solo （D5のみ）
 
-## 推奨音域
--   D3～G5
--   低音ではg-1、高音ではg-6くらいがおすすめ
+## おすすめ設定
+-   g-1
+-   高音はg-4からg-6くらいがおすすめ
+-   子音速度 109
 
 
 ## 音源トロ紹介
