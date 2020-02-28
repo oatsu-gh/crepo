@@ -1,11 +1,10 @@
-name=くれぽ 連続音
+name=くれぽ 5音階連続音
 author=CrazY
 image=crepo.bmp
 sample=
-web=https://github.com/oatsu-gh/crepo
-version:0.1
+web=
+version:1.0.0
 
 【おすすめ設定】
-・g-1
-・高音はg-4からg-6くらいがおすすめ
-・子音速度 109
+・フラグ　 g-1
+・子音速度 109～120
